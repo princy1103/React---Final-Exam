@@ -1,14 +1,24 @@
 {
   "posts": [
     {
-      "id": "afae",
-      "title": "Demo",
-      "description": "This is First Post",
-      "image": "https://thf.bing.com/th/id/OIP.rSxx-pcuECo62SLEC_fpVwHaHa?w=179&h=180&c=7&r=0&o=7&cb=thfc1&dpr=1.3&pid=1.7&rm=3",
+      "id": "d33f",
+      "title": "AI Technology",
+      "description": "Artificial Intelligence encompasses a variety of technologies that allow machines to mimic cognitive functions such as learning, reasoning, and self-correction",
+      "image": "https://th.bing.com/th/id/OIP.WCqK6XavZC3o_vWbiDsfxQHaE8?w=237&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
       "category": "tech",
-      "date": "2025-09-02T18:12:08.444Z",
+      "date": "2025-09-11T10:31:09.087Z",
       "likes": 0,
-      "userId": "101"
+      "userId": "1"
+    },
+    {
+      "id": "9515",
+      "title": "Life Blog",
+      "description": "If you Believe In Yourself, Anything Is Possible",
+      "image": "https://cdn3.geckoandfly.com/wp-content/uploads/2014/03/life-quotes-inspirational-inspiring-motivational39.jpg",
+      "category": "life",
+      "date": "2025-09-11T11:06:18.734Z",
+      "likes": 0,
+      "userId": "1"
     }
   ]
 }
